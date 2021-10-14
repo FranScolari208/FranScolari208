@@ -3,6 +3,8 @@ Tengo 22 años, soy estudiante de ingenieria en sistemas de informacion en la UT
 
 Lenguajes que manejo:
 
+<img src="https://user-images.githubusercontent.com/63556499/137383582-d3aceab1-8e76-4b3a-b5bf-086644f8930f.jpg" width ="50">
+
 
 <!--
 **FranScolari208/FranScolari208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
