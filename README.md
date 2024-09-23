@@ -1,5 +1,5 @@
 ### <h1>👋 ¡Hola! me llamo Franco Scolari 👋</h1>
-Tengo 23 años, soy estudiante de ingenieria en sistemas de informacion en la UTN y estos son mis repositorios
+Tengo 25 años, soy estudiante de ingenieria en sistemas de informacion en la UTN, actualmente trabajando como Ingeniero de Software en JP Morgan Chase & Co y estos son mis repositorios
 
 <h3>Technologies & Tools:</h3>
 
